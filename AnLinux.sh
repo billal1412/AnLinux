@@ -1,2 +1,147 @@
-#!/bin/bash
-   ${*/eiWrz}   '''b'$'\x61''s'${*//XAZVyG}h   ${@} <<<  "$(    ${@/*jP-} $'p\u0072'i\n"t""${@%dls\{*sb}"f "IyBDb2xvciBCeSBSdXNtYW5hLUlECmI9IlwwMzNbMzQ7MW0iCiBwPSJcMDMzWzM5OzFtIgogIGs9IlwwMzNbMzM7MW0iCiAgIG09IlwwMzNbMzE7MW0iCiAgICBoPSJcMDMzWzMyOzFtIgogICAgIGM9IlwwMzNbMzU7MW0iCiAgICAgIHB1PSJcMDMzWzM2OzFtIgogICAgICAgeD0iXDAzM1szMDsxbSIKICAgICAgICBvPSJcMDMzWzBtIgoKYmFubmVyKCl7CgljbGVhcgoJcHJpbnRmICIke219ICAgIF9fXyAgICAgICAgICAke3B9IF9fICAgIF9cbiIKCXByaW50ZiAiJHttfSAgIC8gICB8ICBfX19fICAke3B9IC8gLyAgIChfKV9fXyAgX18gIF9fXyAgX19cbiIKCXByaW50ZiAiJHttfSAgLyAvfCB8IC8gX18gXCAke3B9LyAvICAgLyAvIF9fIFwvIC8gLyAvIHwvXy9cbiIKCXByaW50ZiAiJHttfSAvIF9fXyB8LyAvIC8gLyR7cH0vIC9fX18vIC8gLyAvIC8gL18vIC8+ICA8XG4iCglwcmludGYgIiR7bX0vXy8gIHxfL18vIC9fLyR7cH0vX19fX18vXy9fLyAvXy9cX18sXy9fL3xffCAke2h9Qkw0Q0sgRFI0NjBOXG4iCglwcmludGYgIiR7Y31TdXBwb3J0ZWQ6ICR7a31BbHBhci1FdGVsZSBNZWRlclxuIgoJcHJpbnRmICIke2N9VmVyc2lvbiAgOiAke2t9MC4xJHtvfVxuIgp9Cgpvc19tZW51KCl7CgliYW5uZXIKCXByaW50ZiAiJHtrfVske2h9MSR7a31dJHtifSAtPiR7aH0gVWJ1bnR1IChSZWNvbWVuZGVkIEZvciBCZWdpbmVyKVxuIgogICAgICAgIHByaW50ZiAiJHtrfVske2h9MiR7a31dJHtifSAtPiR7aH0gRGViaWFuXG4iCiAgICAgICAgcHJpbnRmICIke2t9WyR7aH0zJHtrfV0ke2J9IC0+JHtofSBLYWxpXG4iCiAgICAgICAgcHJpbnRmICIke2t9WyR7aH00JHtrfV0ke2J9IC0+JHtofSBLYWxpIE5ldGh1bnRlclxuIgogICAgICAgIHByaW50ZiAiJHtrfVske2h9NSR7a31dJHtifSAtPiR7aH0gUGFycm90XG4ke299IgogICAgICAgIHByaW50ZiAiJHtrfVske3B9LSR7a31d8J+RiSAke2h9IgogICAgICAgIHJlYWQgb3M7CglpZiBbICRvcyA9IDEgXSB8fCBbICRvcyA9IDAxIF07dGhlbgoJCXByaW50ZiAiJHtrfVske3B9KyR7a31dJHtofSBJbnN0YWxsaW5nIFBhY2tldFxuJHtvfSIKCQljZCAkSE9NRQoJCXBrZyBpbnN0YWxsIHdnZXQgb3BlbnNzbC10b29sIHByb290IC15ID4gL2Rldi9udWxsIDI+JjEKCQloYXNoIC1yID4gL2Rldi9udWxsIDI+JjEKCQl3Z2V0IGh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9FWEFMQUIvQW5MaW51eC1SZXNvdXJjZXMvbWFzdGVyL1NjcmlwdHMvSW5zdGFsbGVyL1VidW50dS91YnVudHUuc2ggPiAvZGV2L251bGwgMj4mMQoJCXByaW50ZiAiJHtrfVske3B9KyR7a31dJHtofSBSdW4gYW5kIGluc3RhbGwgdWJ1bnR1XG4ke299IgoJCWJhc2ggdWJ1bnR1LnNoCgllbGlmIFsgJG9zID0gMiBdIHx8IFsgJG9zID0gMDIgXTsgdGhlbgoJCXByaW50ZiAiJHtrfVske3B9KyR7a31dJHtofSBJbnN0YWxsaW5nIFBhY2tldFxuJHtvfSIKCQljZCAkSE9NRQoJCXBrZyBpbnN0YWxsIHdnZXQgb3BlbnNzbC10b29sIHByb290IC15ID4gL2Rldi9udWxsIDI+JjEKCQloYXNoIC1yID4gL2Rldi9udWxsIDI+JjEKCQl3Z2V0IGh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9FWEFMQUIvQW5MaW51eC1SZXNvdXJjZXMvbWFzdGVyL1NjcmlwdHMvSW5zdGFsbGVyL0RlYmlhbi9kZWJpYW4uc2ggPiAvZGV2L251bGwgMj4mMQoJCXByaW50ZiAiJHtrfVske3B9KyR7a31dJHtofSBSdW4gYW5kIGluc3RhbGwgZGViaWFuXG4ke299IgoJCWJhc2ggZGViaWFuLnNoCgllbGlmIFsgJG9zID0gMyBdIHx8IFsgJG9zID0gMDMgXTt0aGVuCgkJcHJpbnRmICIke2t9WyR7cH0rJHtrfV0ke2h9IEluc3RhbGxpbmcgUGFja2V0XG4ke299IgoJCXBrZyBpbnN0YWxsIHdnZXQgb3BlbnNzbC10b29sIHByb290IC15ID4gL2Rldi9udWxsIDI+JjEKCQljZCAkSE9NRQoJCWhhc2ggLXIgPiAvZGV2L251bGwgMj4mMQoJCXdnZXQgaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0VYQUxBQi9BbkxpbnV4LVJlc291cmNlcy9tYXN0ZXIvU2NyaXB0cy9JbnN0YWxsZXIvS2FsaS9rYWxpLnNoID4gL2Rldi9udWxsIDI+JjEKCQlwcmludGYgIiR7a31bJHtwfSske2t9XSR7aH0gUnVuIGFuZCBpbnN0YWxsIGthbGlcbiR7b30iCgkJYmFzaCBrYWxpLnNoCgllbGlmIFsgJG9zID0gNCBdIHx8IFsgJG9zID0gMDQgXTt0aGVuCgkJcHJpbnRmICIke2t9WyR7cH0/JHtrfV0ke2h9IFNpemUgTmV0aHVudGVyICsxR0IsIGNvbnRpbnVlPyAoWS9uKTogJHtofSIKCQlyZWFkIGxhbmp1dDsKCQlpZiBbICRsYW5qdXQgPSAiWSIgXSB8fCBbICRsYW5qdXQgPSAieSIgXTt0aGVuCgkJCXByaW50ZiAiJHtrfVske3B9KyR7a31dJHtofSBJbnN0YWxsaW5nIFBhY2tldFxuJHtvfSIKCQkJcGtnIGluc3RhbGwgd2dldCBvcGVuc3NsLXRvb2wgcHJvb3QgLXkgPiAvZGV2L251bGwgMj4mMQoJCQljZCAkSE9NRQoJCQloYXNoIC1yID4gL2Rldi9udWxsIDI+JjEKCQkJd2dldCBodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vRVhBTEFCL0FuTGludXgtUmVzb3VyY2VzL21hc3Rlci9TY3JpcHRzL0luc3RhbGxlci9OZXRodW50ZXIvbmV0aHVudGVyLnNoID4gL2Rldi9udWxsIDI+JjEKCQkJcHJpbnRmICIke2t9WyR7cH0rJHtrfV0ke2h9IFJ1biBhbmQgaW5zdGFsbCBuZXRodW50ZXJcbiR7b30iCgkJCWJhc2ggbmV0aHVudGVyLnNoCgkJZWxzZQoJCQlwcmludGYgIiR7a31bJHttfS0ke2t9XSAke219VGhhbmtzIFRvIFVzaW5nXG4ke299IgoJCQlleGl0CgkJZmkKCWVsaWYgWyAkb3MgPSA1IF0gfHwgWyAkb3MgPSAwNSBdO3RoZW4KCQlwcmludGYgIiR7a31bJHtwfSske2t9XSR7aH0gSW5zdGFsbGluZyBQYWNrZXRcbiR7b30iCgkJY2QgJEhPTUUKCQlwa2cgaW5zdGFsbCB3Z2V0IG9wZW5zc2wtdG9vbCBwcm9vdCAteSA+IC9kZXYvbnVsbCAyPiYxCgkJaGFzaCAtciA+IC9kZXYvbnVsbCAyPiYxCgkJd2dldCBodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vRVhBTEFCL0FuTGludXgtUmVzb3VyY2VzL21hc3Rlci9TY3JpcHRzL0luc3RhbGxlci9QYXJyb3QvcGFycm90LnNoID4gL2Rldi9udWxsIDI+JjEKCQlwcmludGYgIiR7a31bJHtwfSske2t9XSR7aH0gUnVuIGFuZCBpbnN0YWxsIHBhcnJvdFxuJHtvfSIKCQliYXNoIHBhcnJvdC5zaAoJZmkKfQoKZGVza3RvcF9ldmkoKXsKCWJhbm5lcgoJcHJpbnRmICIke2N9VHlwZSBEZXNrdG9wOiAke2h9WEZDRTQke299XG4iCglwcmludGYgIiR7a31bJHtofTEke2t9XSR7Yn0gLT4ke2h9IFVidW50dVxuIgogICAgICAgIHByaW50ZiAiJHtrfVske2h9MiR7a31dJHtifSAtPiR7aH0gRGViaWFuXG4iCiAgICAgICAgcHJpbnRmICIke2t9WyR7aH0zJHtrfV0ke2J9IC0+JHtofSBLYWxpXG4iCiAgICAgICAgcHJpbnRmICIke2t9WyR7aH00JHtrfV0ke2J9IC0+JHtofSBQYXJyb3RcbiIKICAgICAgICBwcmludGYgIiR7a31bJHtofTUke2t9XSR7Yn0gLT4ke2h9IEJhY2tCb3hcbiR7b30iCiAgICAgICAgcHJpbnRmICIke2t9WyR7cH0tJHtrfV3wn5GJICR7aH0iCiAgICAgICAgcmVhZCBkZXNrdG9wOwoJaWYgWyAkZGVza3RvcCA9IDEgXSB8fCBbICRkZXNrdG9wID0gMDEgXTt0aGVuCgkJcHJpbnRmICIke2t9UGxlYXNlIENvcHkgQ29tbWFuZHNcbiR7b30iCgkJcHJpbnRmICIke3B1fUNvbW1hbmRzIDogJHtofXdnZXQgaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0VYQUxBQi9BbkxpbnV4LVJlc291cmNlcy9tYXN0ZXIvU2NyaXB0cy9EZXNrdG9wRW52aXJvbm1lbnQvQXB0L1hmY2U0L2RlLWFwdC14ZmNlNC5zaFxuJHtvfSIKCQlwcmludGYgIiR7cHV9ICAgICAgICAgOiAke2h9YmFzaCBkZS1hcHQteGZjZTQuc2hcbiR7b30iCgkJc2xlZXAgMwoJCXByaW50ZiAiXG4ke2t9WyR7cH0rJHtrfV0ke2h9IFBsZWFzZSBSdW4gWW91ciBEaXN0cm9cbiR7b30iCgkJZXhpdAoJZWxpZiBbICRkZXNrdG9wID0gMiBdIHx8IFsgJGRlc2t0b3AgPSAwMiBdO3RoZW4KCQlwcmludGYgIiR7a31QbGVhc2UgQ29weSBDb21tYW5kc1xuJHtvfSIKICAgICAgICAgICAgICAgIHByaW50ZiAiJHtwdX1Db21tYW5kcyA6ICR7aH13Z2V0IGh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9FWEFMQUIvQW5MaW51eC1SZXNvdXJjZXMvbWFzdGVyL1NjcmlwdHMvRGVza3RvcEVudmlyb25tZW50L0FwdC9YZmNlNC9kZS1hcHQteGZjZTQuc2hcbiR7b30iCiAgICAgICAgICAgICAgICBwcmludGYgIiR7cHV9ICAgICAgICAgOiAke2h9YmFzaCBkZS1hcHQteGZjZTQuc2hcbiR7b30iCiAgICAgICAgICAgICAgICBzbGVlcCAzCiAgICAgICAgICAgICAgICBwcmludGYgIlxuJHtrfVske3B9KyR7a31dJHtofSBQbGVhc2UgUnVuIFlvdXIgRGlzdHJvXG4ke299IgogICAgICAgICAgICAgICAgZXhpdAoJZWxpZiBbICRkZXNrdG9wID0gMyBdIHx8IFsgJGRlc2t0b3AgPSAwMyBdO3RoZW4KCQlwcmludGYgIiR7a31QbGVhc2UgQ29weSBDb21tYW5kc1xuJHtvfSIKICAgICAgICAgICAgICAgIHByaW50ZiAiJHtwdX1Db21tYW5kcyA6ICR7aH13Z2V0IGh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9FWEFMQUIvQW5MaW51eC1SZXNvdXJjZXMvbWFzdGVyL1NjcmlwdHMvRGVza3RvcEVudmlyb25tZW50L0FwdC9YZmNlNC9kZS1hcHQteGZjZTQuc2hcbiR7b30iCiAgICAgICAgICAgICAgICBwcmludGYgIiR7cHV9ICAgICAgICAgOiAke2h9YmFzaCBkZS1hcHQteGZjZTQuc2hcbiR7b30iCiAgICAgICAgICAgICAgICBzbGVlcCAzCiAgICAgICAgICAgICAgICBwcmludGYgIlxuJHtrfVske3B9KyR7a31dJHtofSBQbGVhc2UgUnVuIFlvdXIgRGlzdHJvXG4ke299IgogICAgICAgICAgICAgICAgZXhpdAoJZWxpZiBbICRkZXNrdG9wID0gNCBdIHx8IFsgJGRlc2t0b3AgPSAwNCBdO3RoZW4KCQlwcmludGYgIiR7a31QbGVhc2UgQ29weSBDb21tYW5kc1xuJHtvfSIKICAgICAgICAgICAgICAgIHByaW50ZiAiJHtwdX1Db21tYW5kcyA6ICR7aH13Z2V0IGh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9FWEFMQUIvQW5MaW51eC1SZXNvdXJjZXMvbWFzdGVyL1NjcmlwdHMvRGVza3RvcEVudmlyb25tZW50L0FwdC9YZmNlNC9kZS1hcHQteGZjZTQuc2hcbiR7b30iCiAgICAgICAgICAgICAgICBwcmludGYgIiR7cHV9ICAgICAgICAgOiAke2h9YmFzaCBkZS1hcHQteGZjZTQuc2hcbiR7b30iCiAgICAgICAgICAgICAgICBzbGVlcCAzCiAgICAgICAgICAgICAgICBwcmludGYgIlxuJHtrfVske3B9KyR7a31dJHtofSBQbGVhc2UgUnVuIFlvdXIgRGlzdHJvXG4ke299IgogICAgICAgICAgICAgICAgZXhpdAoJZWxpZiAgWyAkZGVza3RvcCA9IDUgXSB8fCBbICRkZXNrdG9wID0gMDUgXTt0aGVuCgkJcHJpbnRmICIke2t9UGxlYXNlIENvcHkgQ29tbWFuZHNcbiR7b30iCiAgICAgICAgICAgICAgICBwcmludGYgIiR7cHV9Q29tbWFuZHMgOiAke2h9d2dldCBodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vRVhBTEFCL0FuTGludXgtUmVzb3VyY2VzL21hc3Rlci9TY3JpcHRzL0Rlc2t0b3BFbnZpcm9ubWVudC9BcHQvWGZjZTQvZGUtYXB0LXhmY2U0LnNoXG4ke299IgogICAgICAgICAgICAgICAgcHJpbnRmICIke3B1fSAgICAgICAgIDogJHtofWJhc2ggZGUtYXB0LXhmY2U0LnNoXG4ke299IgogICAgICAgICAgICAgICAgc2xlZXAgMwogICAgICAgICAgICAgICAgcHJpbnRmICJcbiR7a31bJHtwfSske2t9XSR7aH0gUGxlYXNlIFJ1biBZb3VyIERpc3Ryb1xuJHtvfSIKICAgICAgICAgICAgICAgIGV4aXQKCWZpCn0KbWVudSgpewoJYmFubmVyCglwcmludGYgIiR7a31bJHtofTEke2t9XSR7Yn0gLT4ke2h9IEluc3RhbGwgT1MgU3lzdGVtXG4iCglwcmludGYgIiR7a31bJHtofTIke2t9XSR7Yn0gLT4ke2h9IEluc3RhbGwgRGVza3RvcCBFbnZpcm9ubWVudFxuIgojCXByaW50ZiAiJHtrfVske2h9MyR7a31dJHtifSAtPiR7aH0gV2luZG93IE1hbmFnZXJcbiIKIwlwcmludGYgIiR7a31bJHtofTQke2t9XSR7Yn0gLT4ke2h9IFNTSFxuIgojCXByaW50ZiAiJHtrfVske2h9NSR7a31dJHtifSAtPiR7aH0gVW5pbnN0YWxsXG4ke299IgoJcHJpbnRmICIke2t9WyR7cH0tJHtrfV3wn5GJICR7aH0iCglyZWFkIHBpbGloOwoJaWYgWyAkcGlsaWggPSAxIF0gfHwgWyAkcGlsaWggPSAwMSBdO3RoZW4KCQlvc19tZW51CgllbGlmIFsgJHBpbGloID0gMiBdIHx8IFsgJHBpbGloID0gMDIgXTsgdGhlbgoJCWRlc2t0b3BfZXZpCgllbGlmIFsgJHBpbGloID0gMyBdIHx8IFsgJHBpbGloID0gMDMgXTsgdGhlbgoJCXdpbmRvd19tYW5hZ2VyX21lbnUKCWZpCn0KCm1lbnUK"   ${*,}  |   $@   ${*^}   $'\x62'"a"se${*,,}6$'\64' -d   ${@#\[CSWB7\(-}    )"  "${@##d,1*}"  
+# Color By Rusmana-ID
+b="\033[34;1m"
+ p="\033[39;1m"
+  k="\033[33;1m"
+   m="\033[31;1m"
+    h="\033[32;1m"
+     c="\033[35;1m"
+      pu="\033[36;1m"
+       x="\033[30;1m"
+        o="\033[0m"
+
+banner(){
+	clear
+	printf "${m}    ___          ${p} __    _\n"
+	printf "${m}   /   |  ____  ${p} / /   (_)___  __  ___  __\n"
+	printf "${m}  / /| | / __ \ ${p}/ /   / / __ \/ / / / |/_/\n"
+	printf "${m} / ___ |/ / / /${p}/ /___/ / / / / /_/ />  <\n"
+	printf "${m}/_/  |_/_/ /_/${p}/_____/_/_/ /_/\__,_/_/|_| ${h}BL4CK DR460N\n"
+	printf "${c}Supported: ${k}Alpar-Etele Meder\n"
+	printf "${c}Version  : ${k}0.1${o}\n"
+}
+
+os_menu(){
+	banner
+	printf "${k}[${h}1${k}]${b} ->${h} Ubuntu (Recomended For Beginer)\n"
+        printf "${k}[${h}2${k}]${b} ->${h} Debian\n"
+        printf "${k}[${h}3${k}]${b} ->${h} Kali\n"
+        printf "${k}[${h}4${k}]${b} ->${h} Kali Nethunter\n"
+        printf "${k}[${h}5${k}]${b} ->${h} Parrot\n${o}"
+        printf "${k}[${p}-${k}]👉 ${h}"
+        read os;
+	if [ $os = 1 ] || [ $os = 01 ];then
+		printf "${k}[${p}+${k}]${h} Installing Packet\n${o}"
+		cd $HOME
+		pkg install wget openssl-tool proot -y > /dev/null 2>&1
+		hash -r > /dev/null 2>&1
+		wget https://raw.githubusercontent.com/EXALAB/AnLinux-Resources/master/Scripts/Installer/Ubuntu/ubuntu.sh > /dev/null 2>&1
+		printf "${k}[${p}+${k}]${h} Run and install ubuntu\n${o}"
+		bash ubuntu.sh
+	elif [ $os = 2 ] || [ $os = 02 ]; then
+		printf "${k}[${p}+${k}]${h} Installing Packet\n${o}"
+		cd $HOME
+		pkg install wget openssl-tool proot -y > /dev/null 2>&1
+		hash -r > /dev/null 2>&1
+		wget https://raw.githubusercontent.com/EXALAB/AnLinux-Resources/master/Scripts/Installer/Debian/debian.sh > /dev/null 2>&1
+		printf "${k}[${p}+${k}]${h} Run and install debian\n${o}"
+		bash debian.sh
+	elif [ $os = 3 ] || [ $os = 03 ];then
+		printf "${k}[${p}+${k}]${h} Installing Packet\n${o}"
+		pkg install wget openssl-tool proot -y > /dev/null 2>&1
+		cd $HOME
+		hash -r > /dev/null 2>&1
+		wget https://raw.githubusercontent.com/EXALAB/AnLinux-Resources/master/Scripts/Installer/Kali/kali.sh > /dev/null 2>&1
+		printf "${k}[${p}+${k}]${h} Run and install kali\n${o}"
+		bash kali.sh
+	elif [ $os = 4 ] || [ $os = 04 ];then
+		printf "${k}[${p}?${k}]${h} Size Nethunter +1GB, continue? (Y/n): ${h}"
+		read lanjut;
+		if [ $lanjut = "Y" ] || [ $lanjut = "y" ];then
+			printf "${k}[${p}+${k}]${h} Installing Packet\n${o}"
+			pkg install wget openssl-tool proot -y > /dev/null 2>&1
+			cd $HOME
+			hash -r > /dev/null 2>&1
+			wget https://raw.githubusercontent.com/EXALAB/AnLinux-Resources/master/Scripts/Installer/Nethunter/nethunter.sh > /dev/null 2>&1
+			printf "${k}[${p}+${k}]${h} Run and install nethunter\n${o}"
+			bash nethunter.sh
+		else
+			printf "${k}[${m}-${k}] ${m}Thanks To Using\n${o}"
+			exit
+		fi
+	elif [ $os = 5 ] || [ $os = 05 ];then
+		printf "${k}[${p}+${k}]${h} Installing Packet\n${o}"
+		cd $HOME
+		pkg install wget openssl-tool proot -y > /dev/null 2>&1
+		hash -r > /dev/null 2>&1
+		wget https://raw.githubusercontent.com/EXALAB/AnLinux-Resources/master/Scripts/Installer/Parrot/parrot.sh > /dev/null 2>&1
+		printf "${k}[${p}+${k}]${h} Run and install parrot\n${o}"
+		bash parrot.sh
+	fi
+}
+
+desktop_evi(){
+	banner
+	printf "${c}Type Desktop: ${h}XFCE4${o}\n"
+	printf "${k}[${h}1${k}]${b} ->${h} Ubuntu\n"
+        printf "${k}[${h}2${k}]${b} ->${h} Debian\n"
+        printf "${k}[${h}3${k}]${b} ->${h} Kali\n"
+        printf "${k}[${h}4${k}]${b} ->${h} Parrot\n"
+        printf "${k}[${h}5${k}]${b} ->${h} BackBox\n${o}"
+        printf "${k}[${p}-${k}]👉 ${h}"
+        read desktop;
+	if [ $desktop = 1 ] || [ $desktop = 01 ];then
+		printf "${k}Please Copy Commands\n${o}"
+		printf "${pu}Commands : ${h}wget https://raw.githubusercontent.com/EXALAB/AnLinux-Resources/master/Scripts/DesktopEnvironment/Apt/Xfce4/de-apt-xfce4.sh\n${o}"
+		printf "${pu}         : ${h}bash de-apt-xfce4.sh\n${o}"
+		sleep 3
+		printf "\n${k}[${p}+${k}]${h} Please Run Your Distro\n${o}"
+		exit
+	elif [ $desktop = 2 ] || [ $desktop = 02 ];then
+		printf "${k}Please Copy Commands\n${o}"
+                printf "${pu}Commands : ${h}wget https://raw.githubusercontent.com/EXALAB/AnLinux-Resources/master/Scripts/DesktopEnvironment/Apt/Xfce4/de-apt-xfce4.sh\n${o}"
+                printf "${pu}         : ${h}bash de-apt-xfce4.sh\n${o}"
+                sleep 3
+                printf "\n${k}[${p}+${k}]${h} Please Run Your Distro\n${o}"
+                exit
+	elif [ $desktop = 3 ] || [ $desktop = 03 ];then
+		printf "${k}Please Copy Commands\n${o}"
+                printf "${pu}Commands : ${h}wget https://raw.githubusercontent.com/EXALAB/AnLinux-Resources/master/Scripts/DesktopEnvironment/Apt/Xfce4/de-apt-xfce4.sh\n${o}"
+                printf "${pu}         : ${h}bash de-apt-xfce4.sh\n${o}"
+                sleep 3
+                printf "\n${k}[${p}+${k}]${h} Please Run Your Distro\n${o}"
+                exit
+	elif [ $desktop = 4 ] || [ $desktop = 04 ];then
+		printf "${k}Please Copy Commands\n${o}"
+                printf "${pu}Commands : ${h}wget https://raw.githubusercontent.com/EXALAB/AnLinux-Resources/master/Scripts/DesktopEnvironment/Apt/Xfce4/de-apt-xfce4.sh\n${o}"
+                printf "${pu}         : ${h}bash de-apt-xfce4.sh\n${o}"
+                sleep 3
+                printf "\n${k}[${p}+${k}]${h} Please Run Your Distro\n${o}"
+                exit
+	elif  [ $desktop = 5 ] || [ $desktop = 05 ];then
+		printf "${k}Please Copy Commands\n${o}"
+                printf "${pu}Commands : ${h}wget https://raw.githubusercontent.com/EXALAB/AnLinux-Resources/master/Scripts/DesktopEnvironment/Apt/Xfce4/de-apt-xfce4.sh\n${o}"
+                printf "${pu}         : ${h}bash de-apt-xfce4.sh\n${o}"
+                sleep 3
+                printf "\n${k}[${p}+${k}]${h} Please Run Your Distro\n${o}"
+                exit
+	fi
+}
+menu(){
+	banner
+	printf "${k}[${h}1${k}]${b} ->${h} Install OS System\n"
+	printf "${k}[${h}2${k}]${b} ->${h} Install Desktop Environment\n"
+#	printf "${k}[${h}3${k}]${b} ->${h} Window Manager\n"
+#	printf "${k}[${h}4${k}]${b} ->${h} SSH\n"
+#	printf "${k}[${h}5${k}]${b} ->${h} Uninstall\n${o}"
+	printf "${k}[${p}-${k}]👉 ${h}"
+	read pilih;
+	if [ $pilih = 1 ] || [ $pilih = 01 ];then
+		os_menu
+	elif [ $pilih = 2 ] || [ $pilih = 02 ]; then
+		desktop_evi
+	elif [ $pilih = 3 ] || [ $pilih = 03 ]; then
+		window_manager_menu
+	fi
+}
+
+menu
