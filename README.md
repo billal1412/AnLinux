@@ -2,7 +2,7 @@
 
 ![Alt text](https://raw.githubusercontent.com/billal1412/AnLinux/master/Screenshot_2019-12-06-10-14-26-23.png)
 
-#Fitur
+# Fitur
 1.OS
      A.Ubuntu
      B.Debian
@@ -17,6 +17,6 @@
      E.BackBox
 
 
-#Supported
+# Supported
 Alpar-Etele Meder
 https://github.com/EXALAB
